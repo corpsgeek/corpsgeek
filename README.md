@@ -45,7 +45,7 @@ I am Ridwan Adetu, a gradaute from the economics department of [Osun State Unive
 📕 **Active Study**
 <!-- Study repo:START -->
 - [100 days of coding challenge](https://github.com/corpsgeek/100-days-of-code)
-- [30 days of Python] (https://github.com/corpsgeek/30-days-of-python)
+- [30 days of Python](https://github.com/corpsgeek/30-days-of-python)
 <!-- Study repo:END -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=corpsgeek.corpsgeek)
