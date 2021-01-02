@@ -35,12 +35,18 @@ I am Ridwan Adetu, a gradaute from the economics department of [Osun State Unive
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corpsgeek&hide=css)](https://github.com/corpsgeek/github-readme-stats)
 
 
-📕📜 **Latest Blog Posts**
+📜 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Flask For Beginners](https://www.section.io/engineering-education/complete-guide-on-installing-flask-for-beginners/)
 - [Angular Dart Architecture](https://hackernoon.com/angular-dart-architecture-4bf1f4265c5e)
 - [Getting Started With AI](https://hackernoon.com/the-ideal-introduction-to-getting-started-with-strong-and-weak-ai-part-1-x26fd3040)
 <!-- BLOG-POST-LIST:END -->
+
+📕 **Active Study**
+<!-- Study repo:START -->
+- [100 days of coding challenge](https://github.com/corpsgeek/100-days-of-code)
+- [30 days of Python] (https://github.com/corpsgeek/30-days-of-python)
+<!-- Study repo:END -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=corpsgeek.corpsgeek)
 
