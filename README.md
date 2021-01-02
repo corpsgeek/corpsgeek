@@ -27,9 +27,9 @@ I am Ridwan Adetu, a gradaute from the economics department of [Osun State Unive
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Git](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=corpsgeek&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corpsgeek&hide=css)](https://github.com/corpsgeek/github-readme-stats)
