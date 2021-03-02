@@ -40,6 +40,8 @@ I am Ridwan Adetu, a gradaute from the economics department of [Osun State Unive
 - [Flask For Beginners](https://www.section.io/engineering-education/complete-guide-on-installing-flask-for-beginners/)
 - [Angular Dart Architecture](https://hackernoon.com/angular-dart-architecture-4bf1f4265c5e)
 - [Getting Started With AI](https://hackernoon.com/the-ideal-introduction-to-getting-started-with-strong-and-weak-ai-part-1-x26fd3040)
+- [Implementing Flask WTForms](https://www.section.io/engineering-education/implementing-flask-wtform/)
+- [Introduction To Solid Principle](https://www.section.io/engineering-education/introduction-to-solid-principle/)
 <!-- BLOG-POST-LIST:END -->
 
 📕 **Active Study**
