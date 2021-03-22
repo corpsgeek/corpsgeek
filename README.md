@@ -42,6 +42,7 @@ I am Ridwan Adetu, a gradaute from the economics department of [Osun State Unive
 - [Getting Started With AI](https://hackernoon.com/the-ideal-introduction-to-getting-started-with-strong-and-weak-ai-part-1-x26fd3040)
 - [Implementing Flask WTForms](https://www.section.io/engineering-education/implementing-flask-wtform/)
 - [Introduction To Solid Principle](https://www.section.io/engineering-education/introduction-to-solid-principle/)
+- [Flask Database Integration with SQLAlchemy](https://www.section.io/engineering-education/flask-database-integration-with-sqlalchemy/)
 <!-- BLOG-POST-LIST:END -->
 
 📕 **Active Study**
