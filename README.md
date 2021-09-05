@@ -43,6 +43,8 @@ I am Ridwan Adetu, a gradaute from the economics department of [Osun State Unive
 - [Implementing Flask WTForms](https://www.section.io/engineering-education/implementing-flask-wtform/)
 - [Introduction To Solid Principle](https://www.section.io/engineering-education/introduction-to-solid-principle/)
 - [Flask Database Integration with SQLAlchemy](https://www.section.io/engineering-education/flask-database-integration-with-sqlalchemy/)
+- [Structuring Large Applications in Flask with Blueprints and Application Factory](https://www.section.io/engineering-education/structuring-large-applications-with-blueprints-and-application-factory-in-flask/)
+- [Introduction to Blockchain Architecture](https://www.section.io/engineering-education/an-introduction-to-blockchain-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 📕 **Active Study**
